@@ -1,6 +1,6 @@
 # Clear Spaces (app para gestão de limpeza do SENAI)
 Criar um site para as faxineiras do senai e  vincular aos horários dos docentes com as salas de aula para que o setor de limpeza
-consiga identificar os locais disponíveis para executar o serviço
+consiga identificar os locais disponíveis para executar o serviço e também para o trabalho das faxineiras seja mais eficiênte e organizado.
 
 # Nome dos integrantes do PRISM DEVELOPMENT
 Letícia Salvador Ciscare : Lider + Front-end + desing
