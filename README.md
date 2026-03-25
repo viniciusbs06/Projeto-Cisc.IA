@@ -6,3 +6,4 @@ Letícia Salvador Ciscare : Lider + Front-end + desing
 Julio Cesar Pires Miranda dos Santos: full-stack
 Vinícius Bernardi Sant'Ana: Front-end + desing + analista
 Luan Fernandes Da Silva: Banco de Dados
+https://docs.google.com/spreadsheets/d/12V4GN4cUz8yyqX4Xnle9iTjXCsKeq625dAWcHrxlSa8/edit?usp=sharing
