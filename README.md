@@ -21,4 +21,4 @@ Sprint 2 (Parcial)
 <br>
 Modelo Canva (Desing)
 <br>
-https://canva.link/mul804ifyyt2vaa
+https://canva.link/2rqb9nz2uzgbhvo
